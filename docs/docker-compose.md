@@ -20,7 +20,7 @@ Usando a versão do repositório:
 
 ```bash
 # Debian/Ubuntu
-sudo apt instal docker-compose
+sudo apt install docker-compose
 ```
 
 Usando a versão do Github:
